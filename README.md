@@ -13,7 +13,7 @@ Report deadline: 15.02.19
 # Data
 - Ionosphere: Radar Signals
 - Semeion Handwritten Digit: Digit Recognition
-- Wall-Following Robit: Robot Control
+- Wall-Following Robit: Robot Control http://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data
 
 Source: http://archive.ics.uci.edu/ml/index.php
 
