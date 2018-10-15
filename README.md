@@ -19,3 +19,4 @@ Source: http://archive.ics.uci.edu/ml/index.php
 
 # Resources
 Scikit-Learn (feature selection): http://scikit-learn.org/stable/modules/feature_selection.html
+Machine learning mastery: https://machinelearningmastery.com/perform-feature-selection-machine-learning-data-weka/
