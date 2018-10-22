@@ -24,4 +24,13 @@ https://www.cs.waikato.ac.nz/ml/weka/downloading.html
 # Evaluation
 The evaluation is based on the performance of the Neural Network.
 
+NN Parameter:
+For  the  MLP  network,  preliminary  tests  were  made
+with different numbers of hidden neurons to find out the
+minimum value that enables a suitable class separation.
+It  was  found  that q =  6  is  that  minimum  value.  The
+output  layer  consists  of c =  4  neurons  with  logistics
+activation function. The MLP is trained for 500 epochs
+with a learning rate set to η = 0.05.
+
 Other measures?
