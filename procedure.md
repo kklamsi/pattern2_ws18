@@ -9,9 +9,9 @@ The observed Feature Selection Algorithms are
 
 2. GreedyStepwise: Performs a greedy forward or backward search through the space of attribute subsets. http://weka.sourceforge.net/doc.dev/weka/attributeSelection/GreedyStepwise.html
 
-3. 
+3. Correlation Feature Selection
 
-4. 
+4. Randomized Feature Selection
 
 # Data
 As data we take the 'Wall-Following Robot Navigation Data Data Set' from https://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data.
