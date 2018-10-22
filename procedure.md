@@ -7,7 +7,7 @@ The observed Feature Selection Algorithms are
 
 1. Linear Discriminant Analysis
 
-2. 
+2. GreedyStepwise: Performs a greedy forward or backward search through the space of attribute subsets. http://weka.sourceforge.net/doc.dev/weka/attributeSelection/GreedyStepwise.html
 
 3. 
 
