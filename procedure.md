@@ -1,5 +1,18 @@
 <h1>Topic: Advanced Feature Selection Algorithms</h1>
 
+<FONT COLOR="#FF0000">Änderung: KNN zur Classification</FONT>
+
+# Report
+Gliederung:
+1. Introduction/Motivation
+2. Data set
+3. Methods
+4. Results
+5. Discussion
+6. Conclusion
+
+Deadline: 15.02.2019
+
 # Goal
 Compare the performance of three different Feature Selection Algorithms based on a Neural Network whereas a smaller number of features is priorized.
 The parameters of the Neural Network are adopted from the paper 'Short-Term Memory Mechanisms in Neural Network Learning of Robot Navigation Tasks: A Case Study' (Ananda et al., 2009).
