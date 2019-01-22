@@ -4,7 +4,7 @@ Pattern Recognition 2 - Wintersemester 2018/19
 Topic: <b>Advanced Feature Selection Algorithms</b>
 
 Report: https://docs.google.com/document/d/1Zh20W9VdqIYmg8W__oZ_udi8AohpxCawcqx4QcyjhE4/edit?usp=sharing
-Presentation: https://docs.google.com/presentation/d/1J0sYsv-ba8kzpGuBtjrMeHAI0LjenwB2qVclZO8DJrQ/edit#slide=id.g1f87997393_0_782
+Presentation: https://docs.google.com/presentation/d/1J0sYsv-ba8kzpGuBtjrMeHAI0LjenwB2qVclZO8DJrQ/edit?usp=sharing
 
 # Meetings
 - 23.10.18
